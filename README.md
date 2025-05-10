@@ -1,1 +1,1 @@
-# Legal-Mate-AI-consultant
+# Legal-Mate-AI_Assistant
